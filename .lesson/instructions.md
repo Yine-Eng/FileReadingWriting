@@ -1,0 +1,3 @@
+# Instructions  
+
+Write a program that asks the user for the names of two files. The first file should be opened for reading and the second file should be opened for writing. The program should read the contents of the first file, change all characters to uppercase, and store the results in the second file. The second file will be a copy of the first file, except that all the characters will be uppercase. Use the Raven.txt file for your input file.
